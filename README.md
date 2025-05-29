@@ -13,10 +13,13 @@
 ---
 
 ### 🔥 Technologies and tools
+![NodeJs](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-blue?style=plastic&logo=generic&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-blue?style=plastic&logo=generic&logoColor=white)
 
 ---
 
