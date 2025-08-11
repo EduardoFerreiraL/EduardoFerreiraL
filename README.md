@@ -4,6 +4,7 @@
 
 
 - 💼 I work at XCMG BRAZIL
+- 🖥️ I work at NextLayer Studio
 - 🎓 I study Information Systems at Univas
 - 📚 Learning about Web Development, Back-end and more.
 - 🚀 The future belongs to those who never stop learning.
