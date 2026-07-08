@@ -33,8 +33,6 @@ I'm an Information Systems student passionate about technology, logic, and softw
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EduardoFerreiraL&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub do Eduardo" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFerreiraL&layout=compact&theme=dracula&hide_border=true" height="150" alt="Linguagens Mais Usadas" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoFerreiraL&theme=dracula&hide_border=true" height="150" alt="Dias de contribuição (Streak)" />
 </div>
 
 <br>
