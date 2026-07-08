@@ -30,10 +30,7 @@ I'm an Information Systems student passionate about technology, logic, and softw
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoFerreiraL&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Edu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFerreiraL&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
-</div>
+![Edu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoFerreiraL&show_icons=true&theme=dracula) 
 
 <br>
 
