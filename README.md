@@ -1,28 +1,39 @@
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejIza3JnNjE2Mnd1OXg4a3h4Z3EzMmI3Y3E0YTFyM3Fmd3Z1MTNqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejIza3JnNjE2Mnd1OXg4a3h4Z3EzMmI3Y3E0YTFyM3Fmd3Z1MTNqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Coding GIF"/>
+  <h1>Hello, I'm Eduardo Ferreira! 👋</h1>
+  <p><em>Information Systems Student | Backend Developer | Tech Enthusiast</em></p>
+</div>
 
-# Hello, I'm Eduardo Ferreira! 👋
+---
 
-I'm an Information Systems student passionate about technology, logic, and software development. 
+### 👨‍💻 About Me
 
-- 💼 **Current Roles:** Product Technician at XCMG BRAZIL & Backend Programmer at NextLayer Studio, focusing on creating APIs to manipulate database data.
+I'm a developer with a strong focus on backend architecture, bridging the gap between structural logic and modern software solutions. 
+
+- 💼 **Current Roles:** Product Technician at XCMG BRAZIL & Backend Programmer at NextLayer Studio, focusing on creating robust APIs to manipulate database data.
 - 🎓 **Education:** Studying Information Systems at UNIVAS.
-- 📚 **Learning:** Deepening my knowledge in Web Development, Back-end architectures, and modern frameworks.
+- 🎯 **Focus Areas:** RESTful APIs, Relational/NoSQL Databases, and scalable backend architecture.
 - 🚀 *"The future belongs to those who never stop learning."*
 
 <br>
 
 ### 🔥 Technologies & Tools
 
+**Backend & Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+**Languages & Others**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Ladder_Logic-0052CC?style=for-the-badge&logo=generic&logoColor=white" alt="Ladder Logic" />
 </p>
 
@@ -40,6 +51,9 @@ I'm an Information Systems student passionate about technology, logic, and softw
 ### 🌍 Let's Connect!
 
 <p align="left">
+  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/eduardo-ferreira-b8621b240">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
