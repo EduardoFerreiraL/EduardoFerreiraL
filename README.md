@@ -22,6 +22,7 @@ I'm a developer with a strong focus on backend architecture, bridging the gap be
 **Backend & Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -51,7 +52,7 @@ I'm a developer with a strong focus on backend architecture, bridging the gap be
 ### 🌍 Let's Connect!
 
 <p align="left">
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+  <a href="mailto:eduardoferreiraleite.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/eduardo-ferreira-b8621b240">
