@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejIza3JnNjE2Mnd1OXg4a3h4Z3EzMmI3Y3E0YTFyM3Fmd3Z1MTNqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Coding GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejIza3JnNjE2Mnd1OXg4a3h4Z3EzMmI3Y3E0YTFyM3Fmd3Z1MTNqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding GIF"/>
   <h1>Hello, I'm Eduardo Ferreira! 👋</h1>
   <p><em>Information Systems Student | Backend Developer | Tech Enthusiast</em></p>
 </div>
